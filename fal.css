@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-color: rgb(196, 67, 67);
+}
+
+.men {
+    
+    height: 90px;
+    width: 99,5%;
+    background-color: rgba(255, 255, 255, 0.623);
+}
+.men img{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.con{
+   text-align: center;
+    padding-top: 10px;
+}
+.ver{
+    
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+.in{
+    
+    width: 590px;
+    height: 450px;
+    padding-left: 20px;
+}
+input{
+    width: 425px;
+    height: 35px;
+    border-radius: 16px;
+    background-color: rgb(255, 255, 255);  
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.nos{
+    height: 80px;
+}
+.but{
+    width: 300px;
+    height: 50px;
+    background-color: rgb(252, 41, 104);
+}
